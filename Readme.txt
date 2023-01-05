@@ -1,1 +1,1 @@
-Alles Käse Ökäse
+Alles Käse
