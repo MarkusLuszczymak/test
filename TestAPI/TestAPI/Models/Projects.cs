@@ -1,8 +1,6 @@
-﻿namespace TestAPI.Models
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace projects.Models
-{
+namespace TestAPI.Models;
     public class Projects
     {
         public int Id { get; set; }
@@ -11,4 +9,4 @@ namespace projects.Models
 
 
     }
-}
+
