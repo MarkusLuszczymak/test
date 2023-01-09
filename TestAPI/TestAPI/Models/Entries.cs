@@ -6,7 +6,7 @@
 
         public int ProjectsId { get; set; }
 
-        public int UserId { get; set; }
+        public int UsersId { get; set; }
 
         public DateTime Date { get; set; }
 
