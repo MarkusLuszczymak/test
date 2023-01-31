@@ -8,8 +8,10 @@
 
         public int UsersId { get; set; }
 
-        public DateTime Date { get; set; }
+        public string? Notes { get; set; }
 
-        public string Notes { get; set; }
+        public int Timespend { get; set;}
+
+        public DateTime Date { get; set; }
     }
 }

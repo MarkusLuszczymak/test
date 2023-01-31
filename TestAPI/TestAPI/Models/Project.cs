@@ -1,12 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 namespace TestAPI.Models;
-    public class Projects
+    public class Project
     {
         public int Id { get; set; }
-        [Required]
+  
         public string Name { get; set; }
 
-
+        public int Kostenstelle { get; set; }
     }
 
